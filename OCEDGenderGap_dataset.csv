@@ -1,4 +1,4 @@
-﻿"LOCATION","INDICATOR","SUBJECT","MEASURE","FREQUENCY","TIME","Value"
+﻿"Location","Indicator","Subject","Measure","Frequency","Time","Value","Flag Codes"
 "AUS","WAGEGAP","EMPLOYEE","PC","A","1975",21.582733813,
 "AUS","WAGEGAP","EMPLOYEE","PC","A","1976",20.754716981,
 "AUS","WAGEGAP","EMPLOYEE","PC","A","1977",18.390804598,
